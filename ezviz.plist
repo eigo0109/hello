@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://download.ys7.com/ios/images/pldt1.png</string>
+					<string>http://ipa-download.qiniudn.com/pldt1.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://download.ys7.com/ios/images/pldt2.png</string>
+					<string>http://ipa-download.qiniudn.com/pldt2.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -43,7 +43,7 @@
 				<key>subtitle</key>
 				<string>ezviz</string>
 				<key>title</key>
-				<string>ezviz</string>
+				<string>萤石云</string>
 			</dict>
 		</dict>
 	</array>
